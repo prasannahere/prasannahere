@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML and AI
 - 🧑🏻‍💻 I'm undergoing my DS and AI Engineering course from IIIT Dharwad
 - 🌱 I’m currently learning Tensorflow
-- 💡 Can implement basic CNN and DNNs 
+- 💡 Can implement basic RNNs CNNs and DNNs 
 - 🎯 I aim to crack GSOC in my upcoming years
 - 📫 Reach me to my Linkedin profile via https://www.linkedin.com/in/prasanna-r-88b174229/
 - 📫 Reach me in instagram by my username @its.ackerman
