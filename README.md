@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prasanna
-- 👀 I’m interested in ML and AI
-- 🧑🏻‍💻 I'm undergoing my DS and AI Engineering course from IIIT Dharwad
+- 👀 I’m interested in Machine Learning
+- 🧑🏻‍💻 I'm undergoing my DS and AI course from IIIT Dharwad
 - 🌱 I’m currently learning Tensorflow
 - 💡 Can implement basic RNNs CNNs and DNNs 
 - 🎯 I aim to crack GSOC in my upcoming years
