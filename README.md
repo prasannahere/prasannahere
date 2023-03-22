@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Prasanna
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Machine Learning and Deep Learning
 - 🧑🏻‍💻 I'm undergoing my DS and AI course from IIIT Dharwad
 - 🌱 I’m currently learning Tensorflow
-- 💡 Can implement basic RNNs CNNs and DNNs 
+- 💡 Currently diving in Transformers Neural Network Architecture 
 - 📫 Reach me to my Linkedin profile via https://www.linkedin.com/in/prasanna-r-88b174229/
-- 📫 Reach me in instagram by my username @its.ackerman
 - 📫 Mail me at prasanna0083@gmail.com
 
 <!---
