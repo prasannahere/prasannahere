@@ -3,7 +3,7 @@
 - 🧑🏻‍💻 I'm undergoing my DS and AI course from IIIT Dharwad
 - 🌱 I’m currently learning Tensorflow
 - 💡 Currently diving in Transformers Neural Network Architecture 
-- 📫 Reach me to my Linkedin profile via https://www.linkedin.com/in/prasanna-r-88b174229/
+- 📫 Reach me to my Linkedin profile via https://www.linkedin.com/in/prasannar83/
 - 📫 Mail me at prasanna0083@gmail.com
 
 <!---
